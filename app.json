@@ -4,11 +4,11 @@
     "slug": "BandBajaBarat",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo2.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/logo2.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,9 +21,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "foregroundImage": "./assets/logo2.png",
+        "backgroundColor": "#000"
+      },
+      "package": "com.shivamyadav.BandBajaBarat"
     },
     "web": {
       "favicon": "./assets/favicon.png"
