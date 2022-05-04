@@ -5,11 +5,6 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/logo2.png",
-    "splash": {
-      "image": "./assets/logo2.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#000"
-    },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
@@ -22,7 +17,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/logo2.png",
-        "backgroundColor": "#000"
+        "backgroundColor": "#fff"
       },
       "package": "com.shivamyadav.BandBajaBarat"
     },
